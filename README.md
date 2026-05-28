@@ -2,7 +2,7 @@
 
 > **End-to-end time-series forecasting** · 5-year OHLCV data · 90-day out-of-sample holdout · ARIMA benchmark
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RajBhadani/Tesla-Stock-Prophet/blob/main/Tesla_Stock_Prediction_Prophet.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/RajBhadani/Tesla-Prophet-/blob/main/Tesla_Stock_Prediction_Prophet.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://python.org)
 [![Prophet](https://img.shields.io/badge/Facebook-Prophet-0866FF)](https://facebook.github.io/prophet/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green)](LICENSE)
