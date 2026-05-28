@@ -121,7 +121,7 @@ Prophet(
 
 **Option 1 — Colab (recommended, no setup):**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RajBhadani/Tesla-Stock-Prophet/blob/main/Tesla_Stock_Prediction_Prophet.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/RajBhadani/Tesla-Prophet-/blob/main/Tesla_Stock_Prediction_Prophet.ipynb)
 
 **Option 2 — Local:**
 
